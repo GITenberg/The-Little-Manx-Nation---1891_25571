@@ -1,0 +1,30 @@
+_repo: The-Little-Manx-Nation---1891_25571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, T. Hall, Sir
+    - Caine, Thomas Henry Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+description: ''
+gutenberg_issued: '2008-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Isle of Man -- History'
+title: The Little Manx Nation - 1891
+url: http://www.gutenberg.org/ebooks/25571
